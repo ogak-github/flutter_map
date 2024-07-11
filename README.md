@@ -1,3 +1,7 @@
+# This is a copy of Flutter map version 3.1.0
+For the original please read below.
+
+
 # flutter_map
 
 A versatile mapping package for Flutter, based off of ['leaflet.js'](https://leafletjs.com/). Simple and easy to learn, yet completely customizable and configurable, it's the best choice for mapping in your Flutter app.

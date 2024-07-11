@@ -1,3 +1,7 @@
+# This is a copy of Flutter map version 3.1.0
+For the original please read below.
+
+
 # Example Application For '[flutter_map](https://github.com/fleaflet/flutter_map)'
 
 Showcases functionality of the library in a neat and useful format that can be used for further API references, and just to see if you want this library for your app.
